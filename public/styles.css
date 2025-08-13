@@ -23,7 +23,7 @@ body{
 /* Layout */
 #app{display:flex;min-height:100vh}
 .sidebar{
-  width:260px;
+  width:261px;
   padding:28px;
   background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
   border-right:1px solid rgba(255,255,255,0.03);
